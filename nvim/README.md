@@ -33,22 +33,7 @@
     - saadparwaiz1/cmp_luasnip
     - jose-elias-alvarez/null-ls.nvim
     - folke/neodev.nvim
-
-  - Debugger:
-
-    - mfussenegger/nvim-dap
-    - rcarriga/nvim-dap-ui
-    - nvim-telescope/telescope-dap.nvim
-    - theHamsta/nvim-dap-virtual-text
-    - mxsdev/nvim-dap-vscode-js
-    - jay-babu/mason-nvim-dap.nvim
-    - microsoft/vscode-js-debug
-
-  - UnitTests:
-
-    - nvim-neotest/neotest
-    - olimorris/neotest-phpunit
-
+    - 
   - Git:
 
     - f-person/git-blame.nvim
